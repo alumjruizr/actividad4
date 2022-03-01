@@ -7,7 +7,7 @@ public class AleatorioEmple {
 	public static void main(String[] args) throws IOException {
 		crear();
 		leer();
-		System.out.println("Esta línea no sirve");
+		System.out.println("Esta línea no sirve para nada");
 	}
 
 	public static void leer() throws IOException {
